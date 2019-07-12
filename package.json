@@ -1,0 +1,25 @@
+{
+  "name": "typescript-node-starter",
+  "version": "1.0.0",
+  "description": "Simple repo for starting a typescript node project.",
+  "scripts": {
+    "start": "tsc && node dist/index"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "prettier"
+  ],
+  "author": {
+    "name": "Jake Richards",
+    "email": "jakerich123@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@types/node": "^12.6.2"
+  }
+}
